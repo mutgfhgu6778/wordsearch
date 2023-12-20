@@ -1,6 +1,6 @@
 # Assignment overview
 The purpose of this assignment is to provide the student with experience with pointersstructures, and dynamic memory in a C program. It will provide the student with initialexperience with multiple C source les and C header les.
-为您提供 CS , DS , 商科 编程作业代写
+[为您提供 CS , DS , 商科 编程作业代写](http://dzuoye.work "编程代写")
 
 <img src="design2023866.jpg"  width="200" />
 
@@ -67,6 +67,9 @@ int size;
 ### 作业定价有两种方式：
     - 根据定价标准进行
     - 通过微信我们一起协商
+
+[为您提供 CS , DS , 商科 编程作业代写](http://dzuoye.work "编程代写")
+
 ## 联系方式
 
 微信（WeChat）：design2023866
